@@ -44,7 +44,7 @@ var tutors =  [
     },
         {
         id: 6,
-        name: "Maahir Ur Rahman Mohamed Shibly",
+        name: "Maahir Ur Rahman",
         bio: "Heya! I'm Maahir, a Computer Science and Mathematics senior who loves doing a little bit of everything. Aside from helping you with the normal CS course stuff, I've dabbled in Front-End(HTML,CCS,JS) and am learning Golang at the moment. I can help you with understanding mathematical motivations, *insert Big Oh*, and maybe even make this daunting process of learning CS a fun one.",
         image: "images/tutors/maahir-profile.jpg",
         email: "maahirur@nyu.edu",
@@ -53,14 +53,14 @@ var tutors =  [
         id: 7,
         name: "Samridha Shrestha",
         bio: "Hello there, I am Samridha but you can call me Sam. I am interested in machine learning, data science, music, and rock climbing. I can help you with questions related to Python, C/C++, or data science. Can also help you with making your GitHub profile shine. Catch me at the UNIX lab or the climbing wall, I take questions at both places.",
-        image: "images/tutors/Samridha-min.jpg",
+        image: "images/tutors/",
         email: "sms1198@nyu.edu",
     },
     {
         id: 8,
-        name: "Ali Shazal",
-        bio: "As someone who wrote his first line of 'Hello World!' here in college, I can understand the struggle and frustration while writing code. Feel free to come talk to me about anything CS/tech related, or if you're in the mood for lame jokes. Otherwise, I can be found taking photos at events and stuffing myself with free food wherever I find it. You'll recognize me from my big curly hair.",
-        image: "images/tutors/IMG-7663.JPG",
-        email: "as10505@nyu.edu"
-    }
+        name: "Manesha Ramesh",
+        bio: "Hi! I am Manesha and I am here to help you with C, C++, python and web development (NodeJS, ReactJS, HTML, CSS). Feel free to bombard me with questions and I'll do my best to help you! You can find me in the UNIX lab or you can find me around campus reading comic books!",
+        image: "images/tutors/jacinta-1-532x1024.jpeg",
+        email: "mr4684@nyu.edu",
+    },
 ];
