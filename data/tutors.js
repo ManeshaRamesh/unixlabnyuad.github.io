@@ -42,4 +42,11 @@ var tutors =  [
         image: "images/tutors/jacinta-1-532x1024.jpeg",
         email: "jh5372@nyu.edu",
     },
+    {
+        id: 6,
+        name: "Manesha Ramesh",
+        bio: "Hi! I am Manesha and I am here to help you with C, C++, python and web development (NodeJS, ReactJS, HTML, CSS). Feel free to bombard me with questions and I'll do my best to help you! You can find me in the UNIX lab or you can find me around campus reading comic books!",
+        image: "images/tutors/jacinta-1-532x1024.jpeg",
+        email: "mr4684@nyu.edu",
+    }
 ];
